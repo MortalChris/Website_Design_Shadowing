@@ -6,12 +6,72 @@ body{
     margin:0;
     font-family: arial, helvetica, sans-serif;
     font-size: 17px;
-    color:#926239;
+    
     line-height:1.6;
 }
 #showcase{
     background-image: url('../img/background.png');
     background-size: cover;
-    background-position:cemter;
+    background-position:center;
     height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 20px;
+    text-align: center;
 }
+#showcase h1{
+    font-size:50px;
+    line-height: 1.2;
+    color:white;
+}
+#showcase p{
+    font-size: 20px;
+    color:rgb(247, 240, 240);
+}
+
+#showcase .button{
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+    border: white 1px solid;
+    padding: 10px 20px;
+    border-radius:10px;
+    margin-top:20px;
+}
+
+#showcase .button:hover{
+    background: gray;
+    opacity: 0.9;
+    filter: alpha(opacity=90);
+    color: white;
+}
+
+#section-a {
+    padding: 20px;
+    background: rgb(177, 71, 0);
+    text-align:center;
+}
+
+#section-c {
+    margin: 0;
+    background: rgb(233, 118, 41);
+    text-align:center;
+    display: flex;
+}
+
+#section-c .box1{
+    padding: 20px;
+}
+
+#section-c .box2{
+    padding: 20px;
+    background: white;
+}
+
+#section-c .box3{
+    padding: 20px;
+}
+
+padding: 20px;
