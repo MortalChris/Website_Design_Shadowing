@@ -1,4 +1,6 @@
-<b># Website_Design_Shadowing</b>
+<title># Website_Design_Shadowing</title>
 
 Following Youtube tutorials of website design
-Made a 
+
+
+<h2>Landing Page</h2>
