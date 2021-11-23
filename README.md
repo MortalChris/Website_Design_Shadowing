@@ -1,9 +1,9 @@
 <h1># Website_Design_Shadowing</h1>
 
 Following Youtube tutorials of website design
--Made and styled button
--Implemented flexbox
--Create background image
+<ul>Made and styled button</ul>
+<ul>Implemented flexbox</ul>
+<ul>Create background image</ul>
 
 
 <h2>Landing Page</h2>
